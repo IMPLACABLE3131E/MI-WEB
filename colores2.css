@@ -1,0 +1,41 @@
+body {
+	background-image: url(fondo.png);
+    width:90%;margin: 0 auto;min-width:600px;max-width:2000px;
+}
+h1 {
+	color: gold;
+}
+h2 {
+	color: silver;
+}
+h3 {
+	color: silver;
+	font-size: 33px;
+}
+p {
+	color: white;
+	font-size: 22px;
+}
+.demon {
+	color:n silver;
+
+}
+.Navegacion {
+  width: 1000px;
+  margin: 30px auto;
+  background-color: aliceblue;
+}
+.Navegacion ul {
+	list-style: none;
+}
+.Submenu > li {
+    position: relative;
+	 display: inline-block;
+}
+.Menu > li > a {
+ display: block ;
+ padding:20px ;
+ color: #353535;
+ font-family: opne san ;
+ text-decoration: none;
+}
